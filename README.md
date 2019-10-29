@@ -1,5 +1,5 @@
 # fantiadl-docker
-Dockerized [fantiadl script](https://github.com/bitbybyte/fantiadl) [legsplits/fantiadl:latest](https://hub.docker.com/r/legsplits/fantiadl)
+Dockerized [fantiadl script](https://github.com/bitbybyte/fantiadl) [suika/fantiadl:latest](https://hub.docker.com/r/suika/fantiadl)
 
 UID/GID: `1000:1000`
 
