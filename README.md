@@ -6,4 +6,4 @@ UID/GID: `1000:1000`
 Can be changed by passing UID/GID env.
 
 Example:
-`docker run --rm --name fantiadl -v "<DOWNLOADPATH>":"<DOWNLOADPATH>" legsplits/fantiadl:latest --dump-metadata --parse-for-external-links --download-thumbnail --ignore-errors --output-directory "<DOWNLOADPATH>" --email "<EMAIl>" --password "<PASSWORD>" https://fantia.jp/fanclubs/<YOURKINK>`
+`docker run --rm --name fantiadl -v "<DOWNLOADPATH>":"<DOWNLOADPATH>" suika/fantiadl:latest --dump-metadata --parse-for-external-links --download-thumbnail --ignore-errors --output-directory "<DOWNLOADPATH>" --email "<EMAIl>" --password "<PASSWORD>" https://fantia.jp/fanclubs/<YOURKINK>`
